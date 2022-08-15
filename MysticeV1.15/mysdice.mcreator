@@ -1,0 +1,1561 @@
+{
+  "mod_elements": [
+    {
+      "name": "Aphlice",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphlice"
+    },
+    {
+      "name": "Eternal",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal"
+    },
+    {
+      "name": "EternalPickaxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_pickaxe"
+    },
+    {
+      "name": "EternalAxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_axe"
+    },
+    {
+      "name": "EternalSword",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_sword"
+    },
+    {
+      "name": "EternalShovel",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_shovel"
+    },
+    {
+      "name": "EternalHoe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hoe"
+    },
+    {
+      "name": "EternalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_pickaxe_recipe"
+    },
+    {
+      "name": "EternalAxeRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_axe_recipe"
+    },
+    {
+      "name": "EternalSwordRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_sword_recipe"
+    },
+    {
+      "name": "EternalShovelRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_shovel_recipe"
+    },
+    {
+      "name": "EternalHoeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hoe_recipe"
+    },
+    {
+      "name": "EternalArmor",
+      "type": "armor",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EternalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_armor_helmet_recipe"
+    },
+    {
+      "name": "EternalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_armor_body_recipe"
+    },
+    {
+      "name": "EternalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_armor_leggings_recipe"
+    },
+    {
+      "name": "EternalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_armor_boots_recipe"
+    },
+    {
+      "name": "EternalRod",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_rod"
+    },
+    {
+      "name": "IcePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_pickaxe"
+    },
+    {
+      "name": "IceAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_axe"
+    },
+    {
+      "name": "IceSword",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_sword"
+    },
+    {
+      "name": "IceShovel",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_shovel"
+    },
+    {
+      "name": "IceHoe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_hoe"
+    },
+    {
+      "name": "IcePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_pickaxe_recipe"
+    },
+    {
+      "name": "IceAxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_axe_recipe"
+    },
+    {
+      "name": "IceSwordRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_sword_recipe"
+    },
+    {
+      "name": "IceShovelRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_shovel_recipe"
+    },
+    {
+      "name": "IceHoeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_hoe_recipe"
+    },
+    {
+      "name": "EternalWoodWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_wood"
+    },
+    {
+      "name": "EternalWoodLog",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_log"
+    },
+    {
+      "name": "EternalWoodPlanks",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_planks"
+    },
+    {
+      "name": "EternalWoodLeaves",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_leaves"
+    },
+    {
+      "name": "EternalWoodStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_stairs"
+    },
+    {
+      "name": "EternalWoodSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_slab"
+    },
+    {
+      "name": "EternalWoodFence",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_fence"
+    },
+    {
+      "name": "EternalWoodFenceGate",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_fence_gate"
+    },
+    {
+      "name": "EternalWoodPressurePlate",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_pressure_plate"
+    },
+    {
+      "name": "EternalWoodButton",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_button"
+    },
+    {
+      "name": "EternalWoodItemsTag",
+      "type": "tag",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_items_tag"
+    },
+    {
+      "name": "EternalWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_wood_recipe"
+    },
+    {
+      "name": "EternalWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_planks_recipe"
+    },
+    {
+      "name": "EternalWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_stairs_recipe"
+    },
+    {
+      "name": "EternalWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_slab_recipe"
+    },
+    {
+      "name": "EternalWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_fence_recipe"
+    },
+    {
+      "name": "EternalWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_fence_gate_recipe"
+    },
+    {
+      "name": "EternalWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "EternalWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_button_recipe"
+    },
+    {
+      "name": "EternalWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_stick_recipe"
+    },
+    {
+      "name": "Logs",
+      "type": "tag",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logs"
+    },
+    {
+      "name": "ColdiumIngot",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_ingot"
+    },
+    {
+      "name": "ColdiumOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_ore"
+    },
+    {
+      "name": "ColdiumBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_block"
+    },
+    {
+      "name": "ColdiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_ore_block_recipe"
+    },
+    {
+      "name": "ColdiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_block_ore_recipe"
+    },
+    {
+      "name": "ColdiumOreSmelting",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_ore_smelting"
+    },
+    {
+      "name": "ColdiumPickaxe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_pickaxe"
+    },
+    {
+      "name": "ColdiumAxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_axe"
+    },
+    {
+      "name": "ColdiumSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_sword"
+    },
+    {
+      "name": "ColdiumShovel",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_shovel"
+    },
+    {
+      "name": "ColdiumHoe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_hoe"
+    },
+    {
+      "name": "ColdiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_pickaxe_recipe"
+    },
+    {
+      "name": "ColdiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_axe_recipe"
+    },
+    {
+      "name": "ColdiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_sword_recipe"
+    },
+    {
+      "name": "ColdiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_shovel_recipe"
+    },
+    {
+      "name": "ColdiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_hoe_recipe"
+    },
+    {
+      "name": "ColdiumArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ColdiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_armor_helmet_recipe"
+    },
+    {
+      "name": "ColdiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_armor_body_recipe"
+    },
+    {
+      "name": "ColdiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_armor_leggings_recipe"
+    },
+    {
+      "name": "ColdiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_armor_boots_recipe"
+    },
+    {
+      "name": "AphliceBiome",
+      "type": "biome",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphlice_biome"
+    },
+    {
+      "name": "Dirt",
+      "type": "tag",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirt"
+    },
+    {
+      "name": "EternalShardRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_shard_recipe"
+    },
+    {
+      "name": "EternalWoodRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_wood_recipe"
+    },
+    {
+      "name": "RawColdium",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_coldium"
+    },
+    {
+      "name": "RawColdiumToIngot",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_coldium_to_ingot"
+    },
+    {
+      "name": "AphliceCaves",
+      "type": "biome",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphlice_caves"
+    },
+    {
+      "name": "MysticePortalFrame",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_portal_frame"
+    },
+    {
+      "name": "MysticePortalRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_portal_recipe"
+    },
+    {
+      "name": "MysticeDimension",
+      "type": "dimension",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "EternalProvokedPro",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_provoked_pro",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EternalGuardianProvoking",
+      "type": "tag",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_guardian_provoking"
+    },
+    {
+      "name": "EternalGuardian",
+      "type": "livingentity",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_guardian"
+    },
+    {
+      "name": "EternalGuardianOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_guardian_on_entity_tick_update"
+    },
+    {
+      "name": "EternalGuardianOnEntityTickUpdat",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_guardian_on_entity_tick_updat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ColdiumNugget",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coldium_nugget"
+    },
+    {
+      "name": "Chill",
+      "type": "livingentity",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chill"
+    },
+    {
+      "name": "AphlicePortalWandRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphlice_portal_wand_recipe"
+    },
+    {
+      "name": "FrostBite",
+      "type": "livingentity",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_bite"
+    },
+    {
+      "name": "IceSpider",
+      "type": "livingentity",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_spider"
+    },
+    {
+      "name": "IceShell",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_shell"
+    },
+    {
+      "name": "Shyllice",
+      "type": "livingentity",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shyllice"
+    },
+    {
+      "name": "MysticeGem",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_gem"
+    },
+    {
+      "name": "MysticeArtifact",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_artifact"
+    },
+    {
+      "name": "MysticeArtifaceRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_artiface_recipe"
+    },
+    {
+      "name": "FrozenBeast",
+      "type": "livingentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_beast"
+    },
+    {
+      "name": "IceBeastSummonerOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_beast_summoner_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceBeastSummoner",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_beast_summoner"
+    },
+    {
+      "name": "IceBeastSummonerRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_beast_summoner_recipe"
+    },
+    {
+      "name": "MysticeArmor",
+      "type": "armor",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MysticeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_armor_helmet_recipe"
+    },
+    {
+      "name": "MysticeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_armor_body_recipe"
+    },
+    {
+      "name": "MysticeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_armor_leggings_recipe"
+    },
+    {
+      "name": "MysticeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_armor_boots_recipe"
+    },
+    {
+      "name": "MysticePickaxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_pickaxe"
+    },
+    {
+      "name": "MysticeAxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_axe"
+    },
+    {
+      "name": "MysticeSword",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_sword"
+    },
+    {
+      "name": "MysticeShovel",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_shovel"
+    },
+    {
+      "name": "MysticeHoe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_hoe"
+    },
+    {
+      "name": "MysticePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_pickaxe_recipe"
+    },
+    {
+      "name": "MysticeAxeRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_axe_recipe"
+    },
+    {
+      "name": "MysticeSwordRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_sword_recipe"
+    },
+    {
+      "name": "MysticeShovelRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_shovel_recipe"
+    },
+    {
+      "name": "MysticeHoeRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_hoe_recipe"
+    },
+    {
+      "name": "MystiumIngot",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_ingot"
+    },
+    {
+      "name": "MystiumBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_block"
+    },
+    {
+      "name": "MystiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_ore_block_recipe"
+    },
+    {
+      "name": "MystiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_block_ore_recipe"
+    },
+    {
+      "name": "MystiumOreSmelting",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_ore_smelting"
+    },
+    {
+      "name": "MystiumPickaxe",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_pickaxe"
+    },
+    {
+      "name": "MystiumAxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_axe"
+    },
+    {
+      "name": "MystiumSword",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_sword"
+    },
+    {
+      "name": "MystiumShovel",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_shovel"
+    },
+    {
+      "name": "MystiumHoe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_hoe"
+    },
+    {
+      "name": "MystiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_pickaxe_recipe"
+    },
+    {
+      "name": "MystiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_axe_recipe"
+    },
+    {
+      "name": "MystiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_sword_recipe"
+    },
+    {
+      "name": "MystiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_shovel_recipe"
+    },
+    {
+      "name": "MystiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_hoe_recipe"
+    },
+    {
+      "name": "MystiumArmor",
+      "type": "armor",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MystiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_armor_helmet_recipe"
+    },
+    {
+      "name": "MystiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_armor_body_recipe"
+    },
+    {
+      "name": "MystiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_armor_leggings_recipe"
+    },
+    {
+      "name": "MystiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystium_armor_boots_recipe"
+    },
+    {
+      "name": "ExtremelyDedicated",
+      "type": "achievement",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extremely_dedicated"
+    },
+    {
+      "name": "AMysticalChill",
+      "type": "achievement",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_mystical_chill"
+    },
+    {
+      "name": "EternalCraftngTableRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_craftng_table_recipe"
+    },
+    {
+      "name": "EternalPlanksFromShardsRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_planks_from_shards_recipe"
+    },
+    {
+      "name": "AphliceTrade",
+      "type": "villagertrade",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aphlice_trade"
+    },
+    {
+      "name": "SummonerPicture",
+      "type": "painting",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "summoner_picture"
+    },
+    {
+      "name": "EternalShardTrade",
+      "type": "villagertrade",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_shard_trade"
+    },
+    {
+      "name": "RuinedMysticePortalLoot",
+      "type": "loottable",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruined_mystice_portal_loot"
+    },
+    {
+      "name": "RuinedMysticePortal1",
+      "type": "structure",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruined_mystice_portal_1"
+    },
+    {
+      "name": "FrostTulip",
+      "type": "plant",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_tulip"
+    },
+    {
+      "name": "SummonerSummons",
+      "type": "gamerule",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "summonerSummons",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_base_block_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "ColdMusic",
+      "type": "musicdisc",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cold_music"
+    },
+    {
+      "name": "FreezeMusic",
+      "type": "musicdisc",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "freeze_music"
+    },
+    {
+      "name": "EternalHero",
+      "type": "potioneffect",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hero"
+    },
+    {
+      "name": "EternalHeroPro",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hero_pro",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EternalHeroPotion",
+      "type": "potion",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hero_potion"
+    },
+    {
+      "name": "EternalHeroPotionRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_hero_potion_recipe"
+    },
+    {
+      "name": "MysticeStaff",
+      "type": "rangeditem",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mystice_staff"
+    },
+    {
+      "name": "EternalLogExtension",
+      "type": "itemextension",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_log_extension"
+    },
+    {
+      "name": "EternalPlanksExtension",
+      "type": "itemextension",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_planks_extension"
+    },
+    {
+      "name": "EternalExtension",
+      "type": "itemextension",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eternal_extension"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "EternalProvoked",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "music_ice_2",
+      "files": [
+        "sun-jul-24-2022-_1_"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "music_ice",
+      "files": [
+        "sun-jul-24-2022"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.mysdice.eternal_wood_stairs": "Eternal Stairs",
+      "item.mysdi.mystice_artifact": "Mystice Artifact",
+      "item.mysdice.mystice_armor_chestplate": "Mystice Chestplate",
+      "item.mysdice.mystium_armor_chestplate": "Mystium Chestplate",
+      "item.minecraft.splash_potion.effect.eternal_hero_potion": "Splash Potion of Eternal Hero",
+      "item.mysdi.coldium_armor_boots": "Coldium Boots",
+      "block.mysdi.eternal_wood_fence": "Eternal Fence",
+      "item.mysdice.shyllice_spawn_egg": "Shyllice Spawn Egg",
+      "entity.mysdice.frozen_beast": "Frozen Beast",
+      "item.mysdice.ice_axe": "Frost Axe",
+      "block.mysdi.eternal_wood_stairs": "Eternal Stairs",
+      "item.mysdice.ice_sword": "Frost Sword",
+      "entity.mysdice.chill": "Chill",
+      "item.mysdi.eternal_armor_helmet": "Eternal Helmet",
+      "subtitles.music_ice_2": "",
+      "item.mysdi.coldium_nugget": "Coldium Nugget",
+      "item.mysdice.mystice_sword": "Mystice Sword",
+      "item.mysdi.coldium_hoe": "Coldium Hoe",
+      "entity.mysdice.shyllice": "Shyllice",
+      "block.mysdice.eternal_wood_fence_gate": "Eternal Fence Gate",
+      "advancements.extremely_dedicated.descr": "Craft a Mystium Hoe",
+      "item.mysdice.coldium_hoe": "Coldium Hoe",
+      "block.mysdi.eternal_wood_fence_gate": "Eternal Fence Gate",
+      "item.mysdice.mystice_armor_boots": "Mystice Boots",
+      "item.mysdi.coldium_armor_chestplate": "Coldium Chestplate",
+      "block.mysdice.mystium_block": "Block of Mystium",
+      "item.mysdice.eternal_armor_leggings": "Eternal Leggings",
+      "item.mysdice.mystice_gem": "Mystice Gem",
+      "item.mysdi.eternal_sword": "Eternal Sword",
+      "effect.mysdice.eternal_hero": "Eternal Hero",
+      "item.mysdi.mystice_gem": "Mystice Gem",
+      "block.mysdice.eternal_wood_log": "Eternal Log",
+      "item.mysdice.eternal_sword": "Eternal Sword",
+      "item.mysdice.eternal_rod": "Eternal Rod",
+      "item.mysdice.ice_pickaxe": "Frost Pickaxe",
+      "item.mysdice.coldium_pickaxe": "Coldium Pickaxe",
+      "block.mysdice.coldium_block": "Block of Coldium",
+      "entity.mysdi.eternal_guardian": "Eternal Guardian",
+      "item.mysdi.coldium_shovel": "Coldium Shovel",
+      "item.mysdice.mystice_hoe": "Mystice Hoe",
+      "item.minecraft.tipped_arrow.effect.eternal_hero_potion": "Arrow of Eternal Hero",
+      "block.mysdi.eternal_wood_leaves": "Eternal Leaves",
+      "item.mysdice.coldium_armor_boots": "Coldium Boots",
+      "advancements.a_mystical_chill.title": "A Mystical Chill",
+      "block.mysdice.eternal_wood_slab": "Eternal Slab",
+      "block.mysdice.eternal_wood_fence": "Eternal Fence",
+      "item.minecraft.potion.effect.eternal_hero_potion": "Potion of Eternal Hero",
+      "block.mysdi.eternal_wood_pressure_plate": "Eternal Pressure Plate",
+      "entity.mysdi.frost_bite": "Frost Bite",
+      "item.mysdice.freeze_music.desc": "Mystice - Freeze",
+      "block.mysdice.eternal_wood_pressure_plate": "Eternal Pressure Plate",
+      "advancements.a_mystical_chill.descr": "Enter the Mystice Dimension.",
+      "item.mysdice.mystium_pickaxe": "Mystium Pickaxe",
+      "item.minecraft.lingering_potion.effect.eternal_hero_potion": "Lingering Potion of Eternal Hero",
+      "item.mysdi.eternal_pickaxe": "Eternal Pickaxe",
+      "item.mysdi.coldium_armor_helmet": "Coldium Helmet",
+      "item.mysdi.eternal_guardian_spawn_egg": "Eternal Guardian Spawn Egg",
+      "block.mysdice.ice_beast_summoner": "Ice Beast Summoner",
+      "block.mysdi.eternal_wood_button": "Eternal Button",
+      "item.mysdice.mystium_axe": "Mystium Axe",
+      "item.mysdice.ice_shell": "Ice Shell",
+      "item.mysdice.freeze_music": "Music Disc",
+      "item.mysdice.ice_shovel": "Frost Shovel",
+      "entity.mysdi.chill": "Chill",
+      "block.mysdi.mystice_portal_frame": "Mystice Portal Frame",
+      "block.mysdice.mystice_portal_frame": "Mystice Portal Frame",
+      "item.mysdi.eternal": "Eternal Shard",
+      "item.mysdi.eternal_armor_boots": "Eternal Boots",
+      "item.mysdice.mystium_hoe": "Mystium Hoe",
+      "item.mysdice.ice_spider_spawn_egg": "Ice Spider Spawn Egg",
+      "advancements.extremely_dedicated.title": "Extremely Dedicated",
+      "block.mysdice.eternal_wood_planks": "Eternal Planks",
+      "item.mysdice.eternal_axe": "Eternal Axe",
+      "item.mysdi.coldium_axe": "Coldium Axe",
+      "item.mysdice.mystium_shovel": "Mystium Shovel",
+      "item.mysdice.mystice_staff": "Mystice Staff",
+      "item.mysdice.eternal_armor_chestplate": "Eternal Chestplate",
+      "item.mysdice.mystice_shovel": "Mystice Shovel",
+      "item.mysdice.chill_spawn_egg": "Chill Spawn Egg",
+      "block.mysdice.coldium_ore": "Coldium Ore",
+      "item.mysdice.eternal_pickaxe": "Eternal Pickaxe",
+      "item.mysdice.coldium_sword": "Coldium Sword",
+      "block.mysdice.eternal_wood_leaves": "Eternal Leaves",
+      "item.mysdice.frozen_beast_spawn_egg": "Frozen Beast Spawn Egg",
+      "item.mysdi.ice_hoe": "Frost Hoe",
+      "biome.mysdice.aphlice_biome": "Aphlice",
+      "block.mysdi.coldium_block": "Block of Coldium",
+      "item.mysdice.mystice_armor_leggings": "Mystice Leggings",
+      "item.mysdice.eternal_guardian_spawn_egg": "Eternal Guardian Spawn Egg",
+      "block.mysdice.eternal_wood_wood": "Eternal Wood",
+      "block.mysdi.eternal_wood_log": "Eternal Log",
+      "item.mysdi.coldium_ingot": "Coldium",
+      "item.mysdi.shyllice_spawn_egg": "Shyllice Spawn Egg",
+      "item.mysdice.eternal_armor_boots": "Eternal Boots",
+      "item.mysdice.mystium_ingot": "Mystium",
+      "biome.mysdice.aphlice_caves": "Aphlice Caves",
+      "item.mysdi.eternal_axe": "Eternal Axe",
+      "block.mysdice.aphlice": "Aphlice",
+      "item.mysdi.chill_spawn_egg": "Chill Spawn Egg",
+      "item.mysdice.mystice_armor_helmet": "Mystice Helmet",
+      "biome.mysdi.aphlice_caves": "Aphlice Caves",
+      "block.mysdi.eternal_wood_wood": "Eternal Wood",
+      "item.mysdice.coldium_shovel": "Coldium Shovel",
+      "block.mysdi.eternal_wood_planks": "Eternal Planks",
+      "entity.mysdi.ice_spider": "Ice Spider",
+      "item.mysdice.coldium_armor_chestplate": "Coldium Chestplate",
+      "item.mysdi.eternal_armor_chestplate": "Eternal Chestplate",
+      "item.mysdi.frost_bite_spawn_egg": "Frost Bite Spawn Egg",
+      "item.mysdi.coldium_armor_leggings": "Coldium Leggings",
+      "item.mysdi.frozen_beast_spawn_egg": "Frozen Beast Spawn Egg",
+      "item.mysdice.mystium_armor_helmet": "Mystium Helmet",
+      "item.mysdi.ice_pickaxe": "Frost Pickaxe",
+      "entity.mysdi.shyllice": "Shyllice",
+      "entity.mysdi.frozen_beast": "Frozen Beast",
+      "item.mysdice.mystium_sword": "Mystium Sword",
+      "item.mysdi.ice_axe": "Frost Axe",
+      "item.mysdice.coldium_ingot": "Coldium",
+      "gamerule.summonerSummons.description": "The Ice Beast Summoner block summons the Ice Beast when used by the Mystice Wand.",
+      "item.mysdice.mystice_dimension": "Mystice Wand",
+      "item.mysdice.cold_music.desc": "Mystice - Cold",
+      "item.mysdice.raw_coldium": "Raw Coldium",
+      "item.mysdice.eternal_hoe": "Eternal Hoe",
+      "item.mysdi.eternal_shovel": "Eternal Shovel",
+      "item.mysdice.mystice_artifact": "Mystice Artifact",
+      "biome.mysdi.aphlice_biome": "Aphlice",
+      "item.mysdi.eternal_hoe": "Eternal Hoe",
+      "block.mysdi.coldium_ore": "Coldium Ore",
+      "item.mysdice.eternal": "Eternal Shard",
+      "gamerule.summonerSummons": "Ice Beast Summoner Can Summon",
+      "item.mysdi.eternal_rod": "Eternal Rod",
+      "item.mysdice.coldium_axe": "Coldium Axe",
+      "item.mysdi.raw_coldium": "Raw Coldium",
+      "item.mysdice.eternal_armor_helmet": "Eternal Helmet",
+      "item.mysdice.mystice_pickaxe": "Mystice Pickaxe",
+      "item.mysdice.coldium_armor_leggings": "Coldium Leggings",
+      "block.mysdi.aphlice": "Aphlice",
+      "item.mysdice.frost_bite_spawn_egg": "Frost Bite Spawn Egg",
+      "item.mysdice.eternal_shovel": "Eternal Shovel",
+      "item.mysdi.ice_sword": "Frost Sword",
+      "item.mysdice.cold_music": "Music Disc",
+      "item.mysdice.ice_hoe": "Frost Hoe",
+      "entity.mysdice.eternal_guardian": "Eternal Guardian",
+      "item.mysdi.coldium_sword": "Coldium Sword",
+      "entity.mysdice.ice_spider": "Ice Spider",
+      "item.mysdice.mystice_axe": "Mystice Axe",
+      "item.mysdice.mystium_armor_leggings": "Mystium Leggings",
+      "block.mysdi.eternal_wood_slab": "Eternal Slab",
+      "item.mysdi.ice_spider_spawn_egg": "Ice Spider Spawn Egg",
+      "block.mysdice.frost_tulip": "Frost Tulip",
+      "block.mysdice.eternal_wood_button": "Eternal Button",
+      "entity.mysdice.frost_bite": "Frost Bite",
+      "item.mysdi.mystice_dimension": "Aphlice Wand",
+      "item.mysdice.mystium_armor_boots": "Mystium Boots",
+      "item.mysdice.coldium_nugget": "Coldium Nugget",
+      "item.mysdi.coldium_pickaxe": "Coldium Pickaxe",
+      "item.mysdice.coldium_armor_helmet": "Coldium Helmet",
+      "item.mysdi.ice_shell": "Ice Shell",
+      "subtitles.music_ice": "",
+      "item.mysdi.eternal_armor_leggings": "Eternal Leggings",
+      "item.mysdi.ice_shovel": "Frost Shovel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mysdice",
+    "modName": "Mysdice",
+    "version": "1.7.1",
+    "author": "Tacos Hero",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mysdice",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200233511
+}
