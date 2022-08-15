@@ -1,3 +1,3 @@
 # Frozen Mystice Mod
-A mod for Minecraft: Java Edition using Mcreator and Blockbench.
-Made using MCreator and Blockbench.
+A mod for Minecraft: Java Edition made using Mcreator and Blockbench.
+Requires Minecraft and Curseforge.
